@@ -1,0 +1,6 @@
+{
+  "name": "Personal Blogger",
+  "description": "A responsive personal blogging portal with custom categories, dark/light modes, interactive filters, and client-side draft management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
